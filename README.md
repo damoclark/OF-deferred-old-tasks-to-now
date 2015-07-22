@@ -10,7 +10,7 @@ DeferredOldTasksToNow is an Applescript that can be integrated with the Omnifocu
 
 ## Synopsis ##
 
-An [explanation of it's purpose](https://damos.world/2015/07/22/omnifocus2-a-tale-of-the-disappearing-deferred-tasks/) is available on the author's blog - [damos.world](https://damos.world/).
+An [explanation of it's purpose](http://damos.world/2015/07/22/omnifocus2-a-tale-of-the-disappearing-deferred-tasks/) is available on the author's blog - [damos.world](http://damos.world/).
 
 ## Installation ##
 
